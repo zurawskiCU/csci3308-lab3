@@ -1,5 +1,4 @@
-csci3800-lab3
-=============
+Lab 3 - git tutorial
 Daniel Zurawski
 Partner: Hayden Berge
-Lab 3 - git tutorial
+
